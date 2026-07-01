@@ -1,6 +1,6 @@
 cask "hexediff" do
-  version "0.2.021"
-  sha256 "3ac99dc917a76e8ae8650f76bb8a65010d8284cce0869217c197effd1d16dfa0"
+  version "0.2.035"
+  sha256 "2b1f9a08f7709afd23ed6a7e6d5c6ddf99e1aef282af85a86317927f9afb0c9b"
 
   url "https://github.com/mstrange86/homebrew-hexediff/releases/download/v#{version}/hexediff-#{version}.zip"
   name "hexediff"
